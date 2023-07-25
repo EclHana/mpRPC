@@ -1,0 +1,14 @@
+0:16:0 >> [INFO] first log msg
+0:16:0 >> [[33mERRO[0m] 
+0:16:32 >> [INFO] first log msg
+0:16:32 >> [[33mERRO[0m] 
+0:19:46 >> [INFO] first log msg
+0:19:46 >> [[33mERRO[0m] 
+0:21:35 >> [INFO] first log msg
+0:21:35 >> [[33mERRO[0m] 
+0:23:40 >> [INFO] first log msg
+0:23:40 >> [[33mERRO[0m] 
+0:31:37 >> [INFO] first log msg
+0:31:37 >> [[33mERRO[0m] 
+5:52:26 >> [INFO] first log msg
+5:52:26 >> [[33mERRO[0m] 

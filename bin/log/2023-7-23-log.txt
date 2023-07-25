@@ -1,0 +1,12 @@
+21:9:36 >> first log msg
+21:9:36 >> /code/src/mpRPC/example/callee/friendservice.cc:main:48
+21:10:24 >> first log msg
+21:10:24 >> /code/src/mpRPC/example/callee/friendservice.cc:main:48
+[˜	] 22:15:1 >> first log msg
+[˜	] 22:15:1 >> /code/src/mpRPC/example/callee/friendservice.cc:main:48
+[ERROR] 22:15:55 >> first log msg
+[ERROR] 22:15:55 >> /code/src/mpRPC/example/callee/friendservice.cc:main:48
+22:32:21 >> [INFO]first log msg
+22:32:21 >> [ERRO]/code/src/mpRPC/example/callee/friendservice.cc:main:48
+22:35:49 >> [INFO] first log msg
+22:35:49 >> [[33mERRO[0m] 

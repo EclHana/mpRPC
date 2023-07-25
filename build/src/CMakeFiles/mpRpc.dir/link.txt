@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-7/root/usr/bin/ar qc ../../lib/libmpRpc.a  CMakeFiles/mpRpc.dir/logger.cc.o CMakeFiles/mpRpc.dir/mprpcapplication.cc.o CMakeFiles/mpRpc.dir/mprpcchannel.cc.o CMakeFiles/mpRpc.dir/mprpcconfig.cc.o CMakeFiles/mpRpc.dir/mprpccontroller.cc.o CMakeFiles/mpRpc.dir/rpcheader.pb.cc.o CMakeFiles/mpRpc.dir/rpcprovider.cc.o CMakeFiles/mpRpc.dir/zookeeperutil.cc.o
+/opt/rh/devtoolset-7/root/usr/bin/ranlib ../../lib/libmpRpc.a
